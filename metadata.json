@@ -1,0 +1,9 @@
+
+{
+  "name": "Gemini Studio",
+  "description": "Herramientas creativas con IA",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
